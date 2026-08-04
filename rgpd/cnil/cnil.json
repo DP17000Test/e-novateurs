@@ -1,0 +1,803 @@
+[
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-016",
+    "company": "X",
+    "amount": 7300,
+    "currency": "euros",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-011",
+    "company": "A",
+    "amount": null,
+    "currency": "",
+    "date": "2017/07/20"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-012",
+    "company": "X",
+    "amount": 60000000,
+    "currency": "euros",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-012",
+    "company": "Y",
+    "amount": 40000000,
+    "currency": "euros",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-019",
+    "company": "ORANGE SA",
+    "amount": 50000000,
+    "currency": "euros",
+    "date": "2024/11/14"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-020",
+    "company": "",
+    "amount": 180000,
+    "currency": "euros",
+    "date": "2021/12/28"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-015",
+    "company": "TELEMAQUE",
+    "amount": 150000,
+    "currency": "euros",
+    "date": "2024/09/26"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2026-002",
+    "company": "FREE",
+    "amount": 15000000,
+    "currency": "euros",
+    "date": "2026/01/08"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-013",
+    "company": "CEGEDIM SANTÉ",
+    "amount": 800000,
+    "currency": "euros",
+    "date": "2024/09/05"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2019-005",
+    "company": "société X",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2019/05/28"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-026",
+    "company": "société X",
+    "amount": 3000000,
+    "currency": "euros",
+    "date": "2022/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-011",
+    "company": "société X",
+    "amount": 1000000,
+    "currency": "euros",
+    "date": "2022/06/23"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-015",
+    "company": "X",
+    "amount": 175000,
+    "currency": "euros",
+    "date": "2022/07/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-018",
+    "company": "",
+    "amount": 250000,
+    "currency": "euros",
+    "date": "2022/09/08"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2019-001",
+    "company": "société x",
+    "amount": 50000000,
+    "currency": "euros",
+    "date": "2019/01/21"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2019-007",
+    "company": "société X",
+    "amount": 180000,
+    "currency": "euros",
+    "date": "2019/07/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-020",
+    "company": "KASPR",
+    "amount": 240000,
+    "currency": "euros",
+    "date": "2024/12/05"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-009",
+    "company": "",
+    "amount": 1500000,
+    "currency": "euros",
+    "date": "2022/04/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-010",
+    "company": "association X",
+    "amount": 30000,
+    "currency": "euros",
+    "date": "2018/09/06"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-021",
+    "company": "",
+    "amount": 40000,
+    "currency": "euros",
+    "date": "2024/12/19"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-015",
+    "company": "NEXPUBLICA FRANCE",
+    "amount": 1700000,
+    "currency": "euros",
+    "date": "2025/12/22"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2019-010",
+    "company": "X",
+    "amount": 500000,
+    "currency": "euros",
+    "date": "2019/11/21"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-019",
+    "company": "",
+    "amount": 20000000,
+    "currency": "euros",
+    "date": "2022/10/17"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-007",
+    "company": "X",
+    "amount": 30000,
+    "currency": "euros",
+    "date": "2018/07/24"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-014",
+    "company": "MOBIUS SOLUTIONS LTD",
+    "amount": 1000000,
+    "currency": "euros",
+    "date": "2025/12/11"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-003",
+    "company": "société X",
+    "amount": 250000,
+    "currency": "euros",
+    "date": "2020/07/28"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-009",
+    "company": "",
+    "amount": 800000,
+    "currency": "euros",
+    "date": "2020/11/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-009",
+    "company": "X",
+    "amount": 40000000,
+    "currency": "euros",
+    "date": "2023/06/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-020",
+    "company": "",
+    "amount": 800000,
+    "currency": "euros",
+    "date": "2022/11/10"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-023",
+    "company": "",
+    "amount": 60000000,
+    "currency": "euros",
+    "date": "2022/12/19"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-010",
+    "company": "X",
+    "amount": 1750000,
+    "currency": "euros",
+    "date": "2021/07/20"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-014",
+    "company": "COSMOSPACE",
+    "amount": 250000,
+    "currency": "euros",
+    "date": "2024/09/26"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2019-006",
+    "company": "société X",
+    "amount": 20000,
+    "currency": "euros",
+    "date": "2019/06/13"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-024",
+    "company": "[X]",
+    "amount": 60000000,
+    "currency": "euros",
+    "date": "2021/12/31"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-001",
+    "company": "SOLOCAL MARKETING SERVICES",
+    "amount": 900000,
+    "currency": "euros",
+    "date": "2025/05/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-019",
+    "company": "X",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2021/10/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-012",
+    "company": "X",
+    "amount": 25000,
+    "currency": "euros",
+    "date": "2017/11/16"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2026-001",
+    "company": "FREE MOBILE",
+    "amount": 27000000,
+    "currency": "euros",
+    "date": "2026/01/08"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-008",
+    "company": "société d’exercice libéral à responsabilité X",
+    "amount": 10000,
+    "currency": "euros",
+    "date": "2017/05/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-005",
+    "company": "X",
+    "amount": 5200000,
+    "currency": "euros",
+    "date": "2023/04/17"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-014",
+    "company": "",
+    "amount": null,
+    "currency": "",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-002",
+    "company": "",
+    "amount": 100000,
+    "currency": "euros",
+    "date": "2024/01/31"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-015",
+    "company": "",
+    "amount": 600000,
+    "currency": "euros",
+    "date": "2023/10/12"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-025",
+    "company": "",
+    "amount": 8000000,
+    "currency": "euros",
+    "date": "2022/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-021",
+    "company": "",
+    "amount": 300000,
+    "currency": "euros",
+    "date": "2021/12/28"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-008",
+    "company": "société X",
+    "amount": 150000,
+    "currency": "euros",
+    "date": "2023/06/08"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-027",
+    "company": "",
+    "amount": 2500000,
+    "currency": "euros",
+    "date": "2022/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-027",
+    "company": "",
+    "amount": 2500000,
+    "currency": "euros",
+    "date": "2022/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-022",
+    "company": "",
+    "amount": 300000,
+    "currency": "euros",
+    "date": "2022/11/30"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-012",
+    "company": "société X",
+    "amount": 250000,
+    "currency": "euros",
+    "date": "2018/12/26"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-021",
+    "company": "X",
+    "amount": 32000000,
+    "currency": "euros",
+    "date": "2023/12/27"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-013",
+    "company": "SOCIETE [...]",
+    "amount": 50000,
+    "currency": "euros",
+    "date": "2021/07/27"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-008",
+    "company": "",
+    "amount": 2250000,
+    "currency": "euros",
+    "date": "2020/11/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-010",
+    "company": "X",
+    "amount": 40000,
+    "currency": "euros",
+    "date": "2017/07/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-009",
+    "company": "",
+    "amount": null,
+    "currency": "",
+    "date": "2024/07/22"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-003",
+    "company": "",
+    "amount": 310000,
+    "currency": "euros",
+    "date": "2024/01/31"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-009",
+    "company": "société X",
+    "amount": 10000,
+    "currency": "euros",
+    "date": "2018/09/06"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-011",
+    "company": "AMERICAN EXPRESS CARTE FRANCE",
+    "amount": 1500000,
+    "currency": "euros",
+    "date": "2025/11/27"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-008",
+    "company": "",
+    "amount": 500000,
+    "currency": "euros",
+    "date": "2021/06/14"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-003",
+    "company": "",
+    "amount": 100000,
+    "currency": "euros",
+    "date": "2023/03/16"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-003",
+    "company": "",
+    "amount": 25000,
+    "currency": "euros",
+    "date": "2023/03/16"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-003",
+    "company": "X",
+    "amount": 75000,
+    "currency": "euros",
+    "date": "2018/06/21"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-023",
+    "company": "X",
+    "amount": 90000,
+    "currency": "euros",
+    "date": "2023/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-023",
+    "company": "X",
+    "amount": 15000,
+    "currency": "euros",
+    "date": "2023/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-024",
+    "company": "société X",
+    "amount": 10000000,
+    "currency": "euros",
+    "date": "2023/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-011",
+    "company": "X",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2018/12/19"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-011",
+    "company": "Z",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2018/12/19"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-011",
+    "company": "Y",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2018/12/19"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-009",
+    "company": "société X",
+    "amount": 1000,
+    "currency": "euros",
+    "date": "2017/06/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-015",
+    "company": "",
+    "amount": null,
+    "currency": "",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-008",
+    "company": "SAMARITAINE SAS",
+    "amount": 100000,
+    "currency": "euros",
+    "date": "2025/09/18"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-017",
+    "company": "",
+    "amount": 600000,
+    "currency": "euros",
+    "date": "2022/08/03"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-023",
+    "company": "[X]",
+    "amount": 90000000,
+    "currency": "euros",
+    "date": "2021/12/31"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-023",
+    "company": "[Y]",
+    "amount": 60000000,
+    "currency": "euros",
+    "date": "2021/12/31"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-001",
+    "company": "X",
+    "amount": 100000,
+    "currency": "euros",
+    "date": "2018/01/08"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2023-025",
+    "company": "",
+    "amount": 75000,
+    "currency": "euros",
+    "date": "2023/12/29"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-002",
+    "company": "CALOGA",
+    "amount": 80000,
+    "currency": "euros",
+    "date": "2025/05/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-002",
+    "company": "société X",
+    "amount": 250000,
+    "currency": "euros",
+    "date": "2018/05/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2022-021",
+    "company": "",
+    "amount": 600000,
+    "currency": "euros",
+    "date": "2022/11/24"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2024-004",
+    "company": "X",
+    "amount": 525000,
+    "currency": "euros",
+    "date": "2024/04/04"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-014",
+    "company": "X",
+    "amount": 3000,
+    "currency": "euros",
+    "date": "2021/09/15"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-004",
+    "company": "GOOGLE LLC",
+    "amount": 200000000,
+    "currency": "euros",
+    "date": "2025/09/01"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-004",
+    "company": "GOOGLE IRELAND LIMITED",
+    "amount": 125000000,
+    "currency": "euros",
+    "date": "2025/09/01"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2020-013",
+    "company": "société X",
+    "amount": 35000000,
+    "currency": "euros",
+    "date": "2020/12/07"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2025-017",
+    "company": "société X",
+    "amount": 3500000,
+    "currency": "euros",
+    "date": "2025/12/30"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-006",
+    "company": "X",
+    "amount": 150000,
+    "currency": "euros",
+    "date": "2017/04/27"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2017-006",
+    "company": "Y",
+    "amount": 150000,
+    "currency": "euros",
+    "date": "2017/04/27"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2021-012",
+    "company": "société X",
+    "amount": 400000,
+    "currency": "euros",
+    "date": "2021/07/26"
+  },
+  {
+    "source": "CNIL",
+    "country": "France",
+    "resolution": "SAN-2018-008",
+    "company": "X",
+    "amount": 50000,
+    "currency": "euros",
+    "date": "2018/07/24"
+  }
+]

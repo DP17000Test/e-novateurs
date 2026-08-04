@@ -1,0 +1,303 @@
+version: 1
+
+countries:
+
+  AT:
+    country: Austria
+    authority: DSB
+    language: de
+    discover: html
+    format: html
+    archive: https://www.dsb.gv.at/
+    rss:
+    extractor: dsb
+
+  BE:
+    country: Belgium
+    authority: APD/GBA
+    language: fr
+    discover: html
+    format: html
+    archive: https://www.autoriteprotectiondonnees.be/
+    rss:
+    extractor: gba
+
+  BG:
+    country: Bulgaria
+    authority: CPDP
+    language: bg
+    discover: html
+    format: html
+    archive: https://www.cpdp.bg/
+    rss:
+    extractor: cpdp
+
+  HR:
+    country: Croatia
+    authority: AZOP
+    language: hr
+    discover: html
+    format: html
+    archive: https://azop.hr/
+    rss:
+    extractor: azop
+
+  CY:
+    country: Cyprus
+    authority: Commissioner
+    language: el
+    discover: html
+    format: html
+    archive: https://www.dataprotection.gov.cy/
+    rss:
+    extractor: cyprus
+
+  CZ:
+    country: Czech Republic
+    authority: UOOU
+    language: cs
+    discover: html
+    format: html
+    archive: https://www.uoou.cz/
+    rss:
+    extractor: uoou
+
+  DK:
+    country: Denmark
+    authority: Datatilsynet
+    language: da
+    discover: html
+    format: html
+    archive: https://www.datatilsynet.dk/
+    rss:
+    extractor: datatilsynet
+
+  EE:
+    country: Estonia
+    authority: AKI
+    language: et
+    discover: html
+    format: html
+    archive: https://aki.ee/
+    rss:
+    extractor: aki
+
+  FI:
+    country: Finland
+    authority: Tietosuojavaltuutettu
+    language: fi
+    discover: html
+    format: html
+    archive: https://tietosuoja.fi/
+    rss:
+    extractor: finland
+
+  FR:
+    country: France
+    authority: CNIL
+    language: fr
+    discover: html
+    format: html
+    archive: https://www.cnil.fr/fr/les-sanctions-prononcees-par-la-cnil
+    rss:
+    extractor: cnil
+
+  DE:
+    country: Germany
+    authority: BfDI
+    language: de
+    discover: html
+    format: html
+    archive: https://www.bfdi.bund.de/
+    rss:
+    extractor: bfdi
+
+  GR:
+    country: Greece
+    authority: HDPA
+    language: el
+    discover: html
+    format: html
+    archive: https://www.dpa.gr/
+    rss:
+    extractor: hdpa
+
+  HU:
+    country: Hungary
+    authority: NAIH
+    language: hu
+    discover: html
+    format: html
+    archive: https://www.naih.hu/
+    rss:
+    extractor: naih
+
+  IE:
+    country: Ireland
+    authority: DPC
+    language: en
+    discover: html
+    format: html
+    archive: https://www.dataprotection.ie/
+    rss:
+    extractor: dpc
+
+  IT:
+    country: Italy
+    authority: Garante
+    language: it
+    discover: html
+    format: html
+    archive: https://www.garanteprivacy.it/
+    rss:
+    extractor: garante
+
+  LV:
+    country: Latvia
+    authority: DVI
+    language: lv
+    discover: html
+    format: html
+    archive: https://www.dvi.gov.lv/
+    rss:
+    extractor: dvi
+
+  LT:
+    country: Lithuania
+    authority: VDAI
+    language: lt
+    discover: html
+    format: html
+    archive: https://vdai.lrv.lt/
+    rss:
+    extractor: vdai
+
+  LU:
+    country: Luxembourg
+    authority: CNPD
+    language: fr
+    discover: html
+    format: html
+    archive: https://cnpd.public.lu/
+    rss:
+    extractor: cnpd
+
+  MT:
+    country: Malta
+    authority: IDPC
+    language: en
+    discover: html
+    format: html
+    archive: https://idpc.org.mt/
+    rss:
+    extractor: idpc
+
+  NL:
+    country: Netherlands
+    authority: AP
+    language: nl
+    discover: html
+    format: html
+    archive: https://autoriteitpersoonsgegevens.nl/
+    rss:
+    extractor: ap
+
+  PL:
+    country: Poland
+    authority: UODO
+    language: pl
+    discover: html
+    format: html
+    archive: https://uodo.gov.pl/
+    rss:
+    extractor: uodo
+
+  PT:
+    country: Portugal
+    authority: CNPD
+    language: pt
+    discover: html
+    format: html
+    archive: https://www.cnpd.pt/
+    rss:
+    extractor: cnpd_pt
+
+  RO:
+    country: Romania
+    authority: ANSPDCP
+    language: ro
+    discover: html
+    format: html
+    archive: https://www.dataprotection.ro/
+    rss:
+    extractor: anspdcp
+
+  SK:
+    country: Slovakia
+    authority: UOOU
+    language: sk
+    discover: html
+    format: html
+    archive: https://dataprotection.gov.sk/
+    rss:
+    extractor: uoou_sk
+
+  SI:
+    country: Slovenia
+    authority: IP-RS
+    language: sl
+    discover: html
+    format: html
+    archive: https://www.ip-rs.si/
+    rss:
+    extractor: iprs
+
+  ES:
+    country: Spain
+    authority: AEPD
+    language: es
+    discover: html
+    format: html
+    archive: https://www.aepd.es/informes-y-resoluciones/resoluciones?
+    rss:
+    extractor: aepd
+
+  SE:
+    country: Sweden
+    authority: IMY
+    language: sv
+    discover: html
+    format: html
+    archive: https://www.imy.se/
+    rss:
+    extractor: imy
+
+  NO:
+    country: Norway
+    authority: Datatilsynet
+    language: no
+    discover: html
+    format: html
+    archive: https://www.datatilsynet.no/
+    rss:
+    extractor: datatilsynet_no
+
+  IS:
+    country: Iceland
+    authority: Persónuvernd
+    language: is
+    discover: html
+    format: html
+    archive: https://www.personuvernd.is/
+    rss:
+    extractor: personuvernd
+
+  LI:
+    country: Liechtenstein
+    authority: Datenschutzstelle
+    language: de
+    discover: html
+    format: html
+    archive: https://www.datenschutzstelle.li/
+    rss:
+    extractor: datenschutzstelle
