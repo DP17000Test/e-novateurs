@@ -1,0 +1,352 @@
+[
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-7-1",
+        "company": "University of Limerick",
+        "amount": 98000,
+        "currency": "euros",
+        "date": "10/12/2025",
+        "status": "Not Confirmed"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-7-3",
+        "company": "City of Dublin Education and Training Board (CDETB)",
+        "amount": 125000,
+        "currency": "euros",
+        "date": "23/06/2025",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-7-3",
+        "company": "Department of Social Protection",
+        "amount": 550000,
+        "currency": "euros",
+        "date": "09/06/2025",
+        "status": "Pending Appeal (TBC)"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-9-2",
+        "company": "TikTok Technology Limited",
+        "amount": 530000000,
+        "currency": "euros",
+        "date": "30/04/2025",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-10-1 and IN-18-11-1",
+        "company": "Meta Platforms Ireland Limited",
+        "amount": 251000000,
+        "currency": "euros",
+        "date": "12/12/2024 and 17/12/2024",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-9-3",
+        "company": "Maynooth University",
+        "amount": 40000,
+        "currency": "euros",
+        "date": "22/11/2024",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "07/SIU/2018",
+        "company": "Sligo County Council",
+        "amount": 29500,
+        "currency": "euros",
+        "date": "13/11/2024",
+        "status": "Not Confirmed"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "",
+        "company": "LinkedIn",
+        "amount": 310000000,
+        "currency": "euros",
+        "date": "22/10/2024",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "",
+        "company": "Meta Platforms Ireland Limited (MPIL)",
+        "amount": 91000000,
+        "currency": "euros",
+        "date": "26/09/2024",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "",
+        "company": "TikTok Technology Limited (TTL)",
+        "amount": 345000000,
+        "currency": "euros",
+        "date": "01/09/2023",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-3-2",
+        "company": "Department of Health",
+        "amount": 22500,
+        "currency": "euros",
+        "date": "16/06/2023",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-20-8-1",
+        "company": "Meta Platforms Ireland Limited (previously known as Facebook Ireland Limited)",
+        "amount": 1200000000,
+        "currency": "euros",
+        "date": "12/05/2023",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-20-7-2",
+        "company": "Bank of Ireland 365 (‘BOI’)",
+        "amount": 750000,
+        "currency": "euros",
+        "date": "27/02/2023",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-2-4",
+        "company": "Centric Health Ltd. (“Centric”)",
+        "amount": 460000,
+        "currency": "euros",
+        "date": "23/02/2023",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "05/SIU/2018",
+        "company": "Kildare County Council",
+        "amount": 50000,
+        "currency": "euros",
+        "date": "16/01/2023",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-5-6",
+        "company": "WhatsApp Ireland Ltd.",
+        "amount": 5500000,
+        "currency": "euros",
+        "date": "12/01/2023",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-5-5 and IN-18-5-7",
+        "company": "Meta Platforms Ireland Limited - encompassing two decisions for Facebook & Instagram services",
+        "amount": 390000000,
+        "currency": "euros",
+        "date": "31/12/2022",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-6-2",
+        "company": "A&G Couriers Limited T/A Fastway Couriers (Ireland)",
+        "amount": 15000,
+        "currency": "euros",
+        "date": "30/12/2022",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-2-5",
+        "company": "Virtue Integrated Elder Care Ltd",
+        "amount": 100000,
+        "currency": "euros",
+        "date": "20/12/2022",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-21-4-2",
+        "company": "Meta Dataset",
+        "amount": 265000000,
+        "currency": "euros",
+        "date": "25/11/2022",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-20-7-4",
+        "company": "Meta (Instagram)",
+        "amount": 405000000,
+        "currency": "euros",
+        "date": "02/09/2022",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-11-5",
+        "company": "Meta (Facebook)",
+        "amount": 17000000,
+        "currency": "euros",
+        "date": "15/03/2022",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-9-5",
+        "company": "Bank of Ireland Group plc",
+        "amount": 463000,
+        "currency": "euros",
+        "date": "14/03/2022",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-7-5",
+        "company": "Slane Credit Union",
+        "amount": 5000,
+        "currency": "euros",
+        "date": "26/01/2022",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "03/SIU/2018",
+        "company": "Limerick City and County Council",
+        "amount": 110000,
+        "currency": "euros",
+        "date": "09/12/2021",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-20-4-1",
+        "company": "Teaching Council",
+        "amount": 60000,
+        "currency": "euros",
+        "date": "02/12/2021",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-12-2",
+        "company": "WhatsApp Ireland Ltd",
+        "amount": 225000000,
+        "currency": "euros",
+        "date": "20/08/2021",
+        "status": "Pending Appeal"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-20-7-1",
+        "company": "MOVE Ireland",
+        "amount": 1500,
+        "currency": "euros",
+        "date": "20/08/2021",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-7-2",
+        "company": "Irish Credit Bureau DAC",
+        "amount": 90000,
+        "currency": "euros",
+        "date": "23/03/2021",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-7-4",
+        "company": "University College Dublin",
+        "amount": 70000,
+        "currency": "euros",
+        "date": "17/12/2020",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-1-1",
+        "company": "Twitter International Company",
+        "amount": 450000,
+        "currency": "euros",
+        "date": "09/12/2020",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-9-1",
+        "company": "HSE",
+        "amount": 65000,
+        "currency": "euros",
+        "date": "18/08/2020",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-18-11-4",
+        "company": "Tusla",
+        "amount": 85000,
+        "currency": "euros",
+        "date": "12/08/2020",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-12-8",
+        "company": "Tusla",
+        "amount": 40000,
+        "currency": "euros",
+        "date": "21/05/2020",
+        "status": "Collected"
+    },
+    {
+        "source": "DPC",
+        "country": "Ireland",
+        "resolution": "IN-19-10-1",
+        "company": "Tusla",
+        "amount": 75000,
+        "currency": "euros",
+        "date": "07/04/2020",
+        "status": "Collected"
+    }
+]
