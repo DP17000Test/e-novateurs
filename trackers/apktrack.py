@@ -46,6 +46,9 @@ def analyze_apk(apk_path):
     # ---------------------------------------------------------
 
     a, d, dx = AnalyzeAPK(str(apk_path))
+    # a = APK
+    # d = liste des DEX
+    # dx = Analysis
 
     # ---------------------------------------------------------
     # Basic APK information
@@ -80,7 +83,10 @@ def analyze_apk(apk_path):
     services = sorted(a.get_services())
     receivers = sorted(a.get_receivers())
     providers = sorted(a.get_providers())
-    dex_strings = get_dex_strings(d)
+    #dex_strings = get_dex_strings(d)
+    #print("All strings     :", len(dex_strings))
+    network_strings = get_network_strings(d)
+    #print("Network strings :", len(network_strings))
 
     # ---------------------------------------------------------
     # DEX classes
@@ -96,7 +102,8 @@ def analyze_apk(apk_path):
     trackers = load_trackers()
 
     code_detected = detect_code_trackers (dex_classes, trackers)
-    network_detected = detect_network_trackers(dex_strings, trackers)
+    #network_detected = detect_network_trackers(dex_strings, trackers)
+    network_detected = detect_network_trackers(network_strings, trackers)
 
     # ---------------------------------------------------------
     # APK files
@@ -130,8 +137,8 @@ def analyze_apk(apk_path):
         "files": apk_files,
         "domains": [],
         "trackers": {
-           "code": group_trackers (code_detected),
-           "network": group_trackers (network_detected)
+           "code": group_trackers (code_detected, "code"),
+           "network": group_trackers (network_detected, "network")
         }
     }
 
@@ -274,12 +281,33 @@ def get_dex_strings(dexs):
 
     return strings
 
+"""
+Better than get_dex_strings: we keep only strings 
+that look like network trackers.
+"""
+def get_network_strings(dexs):
+
+    strings = set()
+
+    for dex in dexs:
+        for string in dex.get_strings():
+            lower = string.lower()
+            if (
+                "http://" in lower
+                or "https://" in lower
+                or "www." in lower
+                or re.search(r"\b[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b", string)
+            ):
+                strings.add(string)
+
+    return strings
 
 """
 Group trakers by signature. But keep all the
 matches for potential further investigations.
+detection_type = code / network
 """
-def group_trackers(detected):
+def group_trackers(detected, detection_type):
 
     groups = defaultdict(lambda: {
         "type": "code",
@@ -303,10 +331,19 @@ def group_trackers(detected):
                     "categories": tracker.get("categories", [])
                 })
 
-            class_name = match["class"]
+            # Code detection -> class
+            if detection_type == "code":
+                value = match["class"]
 
-            if class_name not in group["matches"]:
-                group["matches"].append(class_name)
+            # Network detection -> string
+            elif detection_type == "network":
+                value = match["string"]
+
+            else:
+                continue
+
+            if value not in group["matches"]:
+                group["matches"].append(value)
 
     return [
         {
@@ -351,7 +388,7 @@ def main():
         sys.exit(1)
 
     apk_path = sys.argv[1]
-
+#    apk_path = "./downloads/willhaben.apk"
     try:
 
         result = analyze_apk(apk_path)
